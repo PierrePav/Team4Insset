@@ -17,11 +17,11 @@ body{
 
 a{
 	padding: 2px 5px;
-	color: #59b7ea;
+	color: #0D3839;
 }
 
 a:hover{
-	background-color: #59b7ea;
+	background-color: #0D3839;
 	color: #fff;
 	border-radius: 2px;
 }
