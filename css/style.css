@@ -12,7 +12,7 @@ body{
 
 /*                                     Body                                       */
 body{
-	background-image: url(img) repeat;
+	background-image: url(img/background.png) repeat;
 }
 
 a{
