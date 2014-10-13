@@ -12,9 +12,23 @@ body{
 
 /*                                     Body                                       */
 body{
-	background-image: url(img);
+	background-image: url(img) repeat;
+}
+
+a{
+	padding: 2px 5px;
+	color: #59b7ea;
+}
+
+a:hover{
+	background-color: #59b7ea;
+	color: #fff;
+	border-radius: 2px;
 }
 
 /*                                    Footer                                      */
 
 /*                                  Login Form                                    */
+form{
+	
+}
