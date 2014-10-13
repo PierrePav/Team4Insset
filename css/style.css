@@ -11,6 +11,9 @@ body{
 /*                                    Header                                      */
 
 /*                                     Body                                       */
+body{
+	background-image: url(img);
+}
 
 /*                                    Footer                                      */
 
