@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Chat-actu</title>
+		<title>Blog team 2</title>
 
 		<!--CSS-->
 		<link rel="stylesheet" href="css/style.css">
@@ -16,7 +16,7 @@
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
 	</head>
-	<body class="metro">
+	<body >
 		<section id="section">
 		<?php
 		if(file_exists($page))require_once $page;
