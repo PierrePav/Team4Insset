@@ -17,13 +17,15 @@
 		<![endif]-->
 	</head>
 	<body >
-		<div id="header"></div>
+		<div id="header">
+		</div>
 		<section id="section">
 		<?php
 		if(file_exists($page))require_once $page;
 		else require_once 'pages/404.php';
 		?>
 		</section>
-		<div id="footer"></div>
+		<div id="footer">
+		</div>
 	</body>
 </html>
