@@ -27,6 +27,12 @@ body{
 	line-height: 24px;
 }
 
+#wrapper{
+	margin: 0 auto;
+	padding: 20px;
+	min-width: 800px;
+}
+
 h1{
 	line-height: 33px;
 }
@@ -53,8 +59,8 @@ a:hover{
 /*------------------------------------Footer--------------------------------------*/
 #footer{
 	width: 100%;
-background: #333;
-clear: both;
+	background: #333;
+	clear: both;
 }
 
 
